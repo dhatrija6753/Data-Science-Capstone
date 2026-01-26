@@ -1,7 +1,7 @@
 Data Science Capstone Project: Smart Splitwise Assistant
 
 Problem Addressed
-Many international students in the USA struggle to manually track and split grocery bills. 
+Many students struggle to manually track and split grocery bills. 
 This project automates bill tracking and predicts next month’s grocery needs while 
 suggesting nearby stores with low prices.
 
